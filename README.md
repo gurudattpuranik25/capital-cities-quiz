@@ -1,3 +1,3 @@
 # capital-cities-quiz
 
-This is a CLI app [dfdsf](www.google.com)
+This is a CLI app [dfdsf](https://www.google.com)
